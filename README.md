@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, i'm Nour 👋 
 
-<!--
-**NourEdAzar/nouredazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Aspiring business data scientist who is currently studying a Master of Science in Big Data Analytics for Business
+
+* Business management background and 2-year experience in finance within the entertainment industry
+
+* Passionate about music
+
+I am a dedicated and highly analytical professional with a strong educational foundation in data analytics 
+
+complemented by good communication skills, critical thinking mindset and problem-solving abilities. I am looking for a job in an innovative company, where I can apply the skills that I acquired through my school education and work experience.
