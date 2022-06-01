@@ -1,4 +1,4 @@
-### Hi, i'm Nour 👋 
+### Hi, I'm Nour 👋 
 
 
 📊  Aspiring data scientist currently studying a Master of Science in Big Data Analytics for Business.
